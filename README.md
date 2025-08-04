@@ -1,1 +1,1 @@
-# outfit-generator
+# outfit-builder
