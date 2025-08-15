@@ -1,1 +1,10 @@
 @import 'tailwindcss';
+
+@theme {
+  /* Define custom theme properties as CSS variables */
+  --font-display: "Londrina Solid", cursive;
+  --font-sans: Inter, system-ui, sans-serif;
+  
+  /* You can add other custom properties here too */
+  /* --color-brand: #5224e5; */
+}
